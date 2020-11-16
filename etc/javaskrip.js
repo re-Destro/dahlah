@@ -1,5 +1,5 @@
 alert("HALO BRO/SIS!!!");
-var nama = prompt("MASUKKAN NAMA QAMOEHHH!!!!");
+var nama = prompt("MASUKKAN NAMA KAMU!");
 var yesh = true;
 
 while (yesh === true){
